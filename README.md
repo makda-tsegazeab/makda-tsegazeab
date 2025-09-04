@@ -16,7 +16,6 @@
 ## 🛠️ Tech Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)  
-![REST](https://img.shields.io/badge/REST-02569B?style=for-the-badge&logo=rest&logoColor=white)  
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)  
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)  
@@ -24,8 +23,8 @@
 ---
 
 ## 📊 GitHub Stats
-![Makda's GitHub stats](https://github-readme-stats.vercel.app/api?username=makda-tsegazeab&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=makda-tsegazeab&layout=compact&theme=radical)  
+![Makda's GitHub stats](https://github-readme-stats.vercel.app/api?username=makda-tsegazeab&show_icons=true&theme=github_dark)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=makda-tsegazeab&layout=compact&theme=github_dark)  
 
 ---
 
