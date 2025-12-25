@@ -5,8 +5,7 @@
 ---
 
 ## 👩‍💻 About Me
-- 🖥️ Currently working as a **Django backend developer** at YBS Software Development, building robust APIs and scalable systems.  
-- 🤖 Exploring **Machine Learning & AI** with tools like **TensorFlow** and **PyTorch**.  
+  - 🤖 Exploring **Machine Learning & AI** with tools like **TensorFlow** and **PyTorch**.  
 - 🚀 Passionate about **web development** and open-source contributions.  
 - 🎨 Looking to collaborate with frontend devs on **React** or **Flutter** projects.  
 - ⚡ Fun fact: I laugh a lot because laughter is the best therapy!  
